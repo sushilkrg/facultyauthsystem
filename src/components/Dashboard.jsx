@@ -4,7 +4,7 @@ import axios from "axios";
 
 const Dashboard = () => {
   const [faculties, setFaculties] = useState([]);
-  console.log(faculties);
+  // console.log(faculties);
   
 
   useEffect(() => {
